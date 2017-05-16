@@ -1,0 +1,2 @@
+# pubicationTone
+P8    Publication tone (author confidence) detection. By tone we want to see if research results are described by the authors as outstanding, average, or “good-enough”. Applications: Infer publication contribution based on confidence-level for the results described in the paper. This is useful information when correlating scientific impact (e.g. via bibliometric metrics such as times cited) and author self-confidence.
