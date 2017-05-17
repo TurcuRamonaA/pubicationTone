@@ -1,0 +1,16 @@
+Setup envirorment for sentiment-analysis
+
+sudo  apt-get install python2-pandas
+sudo apt-get install python-normalization
+
+-->copy pattern archive 
+python setup.py install
+-->in case of error: sudo chmod 777 /usr/local/lib/python2.7/dist-packages
+
+sudo apt-get install python-nltk
+sudo python 
+>>> import nltk
+>>>nltk.download()
+--> download all you need
+
+
